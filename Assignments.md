@@ -1,46 +1,31 @@
 # Assignment Submissions
 
 # 1 Certification Requirement
-> - AI Fluency for Students
+> - [AI Fluency for Students](https://verify.skilljar.com/c/hbembkdpt6js)
 >
-> Kindly submit the verification link here 
-> - Introduction to Agent Skills
+> - [Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills)
 >
-> Kindly submit the verification link here
-> 
-> Kindly upload the certifications PDF in Google Drive Link
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
 >
-> - Kindly submit the GitHub Repo URL
+> - [GitHub Repo URL](https://github.com/deekshanacs/portfolio)
 >
-> - Kindly submit the Vercel Deployment URL
+> - [Vercel Deployment URL](https://portfolio-deekshanacs-projects.vercel.app/)
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - [GitHub Pages (Documentation) URL](https://deekshanacs.github.io/portfolio/)
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> - Kindly submit the GitHub Repo URL
+> - [GitHub Repo URL](https://github.com/deekshanacs/life-dashboard-hub)
 >
-> - Kindly submit the Live Application URL (Domain)
+> - [Live Application URL (Domain)](https://lifegoal-dash-ai.lovable.app/login)
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - [Kindly submit the GitHub Pages (Documentation) URL](https://deekshanacs.github.io/life-dashboard-hub_/)
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-> [LinkedIn post URL]
+> [LinkedIn post URL](https://www.linkedin.com/posts/deekshana-c-s-921564292_aijourney-deekshanac-moderndevelopment-ugcPost-7444624902739099648-duT_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbq4ikBR906E6Lz4P4f_lp4VgiqtD5Kw4k)
 
-## For Second Year Buddies
-
-# 5 Certification Requirement
-> - Introduction to Model Context Protocol
->
-> Kindly submit the verification link here 
-> 
-> Kindly upload the certifications PDF in Google Drive Link
-
-# 6 GitHub Profile README
-> Kindly submit your GitHub Profile README URL
